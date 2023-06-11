@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.ipr
+cmake-build-*/
+*.iws
+out/
+target/
+.idea_modules/
